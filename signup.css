@@ -1,0 +1,12 @@
+.container-box{
+    width:100%;
+    display:flex;
+   }
+   .first-div,.second-div{
+   width:65%;
+   border:1px solid #ddd;  
+   }
+   .second-div{
+    width:35%;
+   border:1px solid #ddd; 
+   }
